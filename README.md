@@ -10,6 +10,10 @@ Purpose of the analysis is to find out if these stocks are worth investing in by
 
 The refactored VBA script allowed our analysis to run at a slightly quicker rate. The execution time for the original script was 0.640625 in 2017 and 0.6523438 in 2018. After refactoring the code, the execution time improved with a run time of 0.625 in 2017 and 0.6210938 in 2018.
 
+![Refactored Execution Time for 2017](Resources/VBA_Challenge_2017.png)
+
+![Refactored Execution Time for 2018](Resources/VBA_Challenge_2018.png)
+
 ### Advantages of refactoring code
 
 The advantages of refactoring code, especially, in VBA is that it can efficiently run with faster execution times. This would be especially important if a program used a significantly large amount of code - the quicker run times for each sub or script the more efficiently the program may run. Refactored code may also be cleaner to read and easier to edit or apply to another data set.
