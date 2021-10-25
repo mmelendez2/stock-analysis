@@ -26,8 +26,8 @@ Some disadvantages may be that refactoring code incorrectly can change its exter
 
 We can evidently see the run time decreased from our original code and refactored code. The script decreased the run time by 0.015625 for 2017 and 0.03125 for 2018. If this was presented to a user, the user would most likely prefer a program that runs quicker while retreiving the same information. Below are snippets of the run times from the original code:
 
-![Original Execution Time for 2017](Resources/VBA_Original_Code_2017)
+![Original Execution Time for 2017](Resources/VBA_Original_Code_2017.png)
 
-![Original Execution Time for 2018](Resources/VBA_Original_Code_2018)
+![Original Execution Time for 2018](Resources/VBA_Original_Code_2018.png)
 
 Although we succesffully refactored the code, it took time to troubleshoot and debug issues such as expected array and overflow errors. Given this, through trial and error I was able to better understand how the code worked and could see how it can be manipulated to a larger data set. 
